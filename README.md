@@ -34,13 +34,6 @@ const jishnu = {
 
 ### ⚡ Featured builds
 
-<p align="center">
-  <a href="https://github.com/Jishnuraj07/larper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jishnuraj07&repo=larper&bg_color=0d0221&title_color=ff2a6d&icon_color=05d9e8&text_color=d1f7ff&border_color=ff2a6d" alt="larper"/></a>
-  <a href="https://github.com/Jishnuraj07/ambrosia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jishnuraj07&repo=ambrosia&bg_color=0d0221&title_color=ff2a6d&icon_color=05d9e8&text_color=d1f7ff&border_color=ff2a6d" alt="ambrosia"/></a>
-  <a href="https://github.com/Jishnuraj07/indicis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jishnuraj07&repo=indicis&bg_color=0d0221&title_color=ff2a6d&icon_color=05d9e8&text_color=d1f7ff&border_color=ff2a6d" alt="indicis"/></a>
-  <a href="https://github.com/Jishnuraj07/daedalus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jishnuraj07&repo=daedalus&bg_color=0d0221&title_color=ff2a6d&icon_color=05d9e8&text_color=d1f7ff&border_color=ff2a6d" alt="daedalus"/></a>
-</p>
-
 | | Project | What it does |
 |---|---|---|
 | 🎭 | **[larper](https://github.com/Jishnuraj07/larper)** | A real coding agent in five switchable costumes: netrunners, Greek gods, a fantasy party, a starship bridge, or a LinkedIn parody |
@@ -70,8 +63,8 @@ const jishnu = {
 ### 📡 Telemetry
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jishnuraj07&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d0221&title_color=ff2a6d&icon_color=05d9e8&text_color=d1f7ff&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jishnuraj07&layout=compact&langs_count=8&bg_color=0d0221&title_color=ff2a6d&text_color=d1f7ff&hide_border=true" alt="Top languages"/>
+  <img height="180" src="https://raw.githubusercontent.com/Jishnuraj07/Jishnuraj07/output/stats.svg" alt="GitHub stats"/>
+  <img height="180" src="https://raw.githubusercontent.com/Jishnuraj07/Jishnuraj07/output/langs.svg" alt="Top languages"/>
 </p>
 
 <p align="center">
@@ -79,7 +72,7 @@ const jishnu = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jishnuraj07&bg_color=0d0221&color=d1f7ff&line=ff2a6d&point=05d9e8&area=true&area_color=ff2a6d&hide_border=true" width="100%" alt="Activity graph"/>
+  <img src="https://raw.githubusercontent.com/Jishnuraj07/Jishnuraj07/output/activity.svg" width="100%" alt="Activity graph"/>
 </p>
 
 <p align="center">
