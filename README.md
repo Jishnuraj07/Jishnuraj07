@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Jishnuraj07">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=05D9E8&center=true&vCenter=true&width=640&lines=I+build+coding+agents+that+play+dress-up+%F0%9F%8E%AD;Claude+as+a+netrunner+crew%2C+Greek+gods%2C+a+starship+bridge;Local-first+knowledge+graphs+%F0%9F%A7%A0;Hands-free+Claude+Code+%F0%9F%8E%A7;Shipping+side+quests+at+2am+%E2%9A%A1" alt="Typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=05D9E8&center=true&vCenter=true&width=640&lines=I+build+coding+agents+that+play+dress-up+%F0%9F%8E%AD;Claude+as+netrunners%2C+gods+or+a+starship+crew;Local-first+knowledge+graphs+%F0%9F%A7%A0;Hands-free+Claude+Code+%F0%9F%8E%A7;Shipping+side+quests+at+2am+%E2%9A%A1" alt="Typing intro"/>
   </a>
 </p>
 
