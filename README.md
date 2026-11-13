@@ -17,16 +17,16 @@
 
 ---
 
-### `> whoami`
+### 💻 whoami
 
 ```ts
 const jishnu = {
-  role:        "Gen AI developer",
-  location:    "Pune, India 🇮🇳",
-  buildsWith:  ["Claude", "TypeScript", "Python", "Node", "Electron"],
-  obsessions:  ["agentic tooling", "RAG", "local-first apps", "making dev tools fun"],
-  brain:       "ADHD — 14 tabs open, all of them important",
-  currently:   "turning coding agents into games without making them less useful",
+  role: "Gen AI developer",
+  location: "Pune, India",
+  stack: ["TypeScript", "Python", "Node", "Electron"],
+  into: ["coding agents", "RAG", "local-first apps"],
+  brain: "ADHD, 14 tabs open",
+  now: "making coding agents fun to use",
 };
 ```
 
