@@ -21,10 +21,13 @@
 
 ```ts
 const jishnu = {
-  role: "Gen AI developer",
+  role: "GenAI Developer",
+  company: "Accenture",
   location: "Pune, India",
-  stack: ["TypeScript", "Python", "Node", "Electron"],
-  into: ["coding agents", "RAG", "local-first apps"],
+  languages: ["Python", "TypeScript"],
+  stack: ["FastAPI", "Next.js", "Node", "Electron"],
+  ai: ["Claude API", "NVIDIA NIM", "RAG", "Docling"],
+  into: ["coding agents", "local-first apps"],
   brain: "ADHD, 14 tabs open",
   now: "making coding agents fun to use",
 };
