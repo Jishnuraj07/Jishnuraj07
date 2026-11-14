@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
+<style>
+  .t{font:700 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:#ff2a6d}
+  .l{font:600 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:#d1f7ff}
+  .v{font:700 15px 'Fira Code', Consolas, 'Courier New', monospace;fill:#05d9e8}
+  .s{font:400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:#8b8ba7}
+  .f{opacity:0;animation:in .5s ease-out forwards}
+  @keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
+  @media (prefers-reduced-motion:reduce){.f{animation:none;opacity:1}}
+</style>
+<defs><linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#ff2a6d"/><stop offset="1" stop-color="#05d9e8"/></linearGradient></defs>
+<rect x="1" y="1" width="998" height="298" rx="8" fill="#0d0221" stroke="url(#edge)" stroke-width="1.5"/>
+<text x="24" y="36" class="t">Contribution Activity</text>
+<defs><linearGradient id="fill" x1="0" x2="0" y1="0" y2="1">
+  <stop offset="0" stop-color="#ff2a6d" stop-opacity=".55"/><stop offset="1" stop-color="#ff2a6d" stop-opacity="0"/></linearGradient></defs>
+<text x="976" y="36" class="s" text-anchor="end">85 contributions in the last 60 days</text>
+<line x1="50" x2="976" y1="256" y2="256" stroke="#2a1a4a" stroke-dasharray="3 4"/>
+  <text x="40" y="260" class="s" text-anchor="end">0</text>
+<line x1="50" x2="976" y1="152.84210526315792" y2="152.84210526315792" stroke="#2a1a4a" stroke-dasharray="3 4"/>
+  <text x="40" y="156.84210526315792" class="s" text-anchor="end">10</text>
+<line x1="50" x2="976" y1="60" y2="60" stroke="#2a1a4a" stroke-dasharray="3 4"/>
+  <text x="40" y="64" class="s" text-anchor="end">19</text>
+<path d="M50.0,256.0L65.7,256.0L81.4,256.0L97.1,256.0L112.8,256.0L128.5,256.0L144.2,256.0L159.9,256.0L175.6,256.0L191.3,256.0L206.9,256.0L222.6,256.0L238.3,256.0L254.0,256.0L269.7,256.0L285.4,256.0L301.1,214.7L316.8,235.4L332.5,235.4L348.2,235.4L363.9,256.0L379.6,256.0L395.3,256.0L411.0,256.0L426.7,256.0L442.4,256.0L458.1,256.0L473.8,256.0L489.5,256.0L505.2,256.0L520.8,256.0L536.5,256.0L552.2,101.3L567.9,256.0L583.6,204.4L599.3,245.7L615.0,256.0L630.7,163.2L646.4,256.0L662.1,225.1L677.8,245.7L693.5,256.0L709.2,256.0L724.9,256.0L740.6,60.0L756.3,152.8L772.0,256.0L787.7,256.0L803.4,256.0L819.1,256.0L834.7,256.0L850.4,256.0L866.1,256.0L881.8,256.0L897.5,214.7L913.2,256.0L928.9,256.0L944.6,256.0L960.3,173.5L976.0,256.0L976.0,256L50,256Z" fill="url(#fill)"/>
+<path d="M50.0,256.0L65.7,256.0L81.4,256.0L97.1,256.0L112.8,256.0L128.5,256.0L144.2,256.0L159.9,256.0L175.6,256.0L191.3,256.0L206.9,256.0L222.6,256.0L238.3,256.0L254.0,256.0L269.7,256.0L285.4,256.0L301.1,214.7L316.8,235.4L332.5,235.4L348.2,235.4L363.9,256.0L379.6,256.0L395.3,256.0L411.0,256.0L426.7,256.0L442.4,256.0L458.1,256.0L473.8,256.0L489.5,256.0L505.2,256.0L520.8,256.0L536.5,256.0L552.2,101.3L567.9,256.0L583.6,204.4L599.3,245.7L615.0,256.0L630.7,163.2L646.4,256.0L662.1,225.1L677.8,245.7L693.5,256.0L709.2,256.0L724.9,256.0L740.6,60.0L756.3,152.8L772.0,256.0L787.7,256.0L803.4,256.0L819.1,256.0L834.7,256.0L850.4,256.0L866.1,256.0L881.8,256.0L897.5,214.7L913.2,256.0L928.9,256.0L944.6,256.0L960.3,173.5L976.0,256.0" fill="none" stroke="#ff2a6d" stroke-width="2.5" stroke-linejoin="round"
+  stroke-dasharray="4000" stroke-dashoffset="4000" style="animation:draw 2s ease-out forwards"/>
+<style>@keyframes draw{to{stroke-dashoffset:0}}@media (prefers-reduced-motion:reduce){path{animation:none!important;stroke-dashoffset:0!important}}</style>
+<circle cx="301.1" cy="214.7" r="3.5" fill="#05d9e8"/><circle cx="316.8" cy="235.4" r="3.5" fill="#05d9e8"/><circle cx="332.5" cy="235.4" r="3.5" fill="#05d9e8"/><circle cx="348.2" cy="235.4" r="3.5" fill="#05d9e8"/><circle cx="552.2" cy="101.3" r="3.5" fill="#05d9e8"/><circle cx="583.6" cy="204.4" r="3.5" fill="#05d9e8"/><circle cx="599.3" cy="245.7" r="3.5" fill="#05d9e8"/><circle cx="630.7" cy="163.2" r="3.5" fill="#05d9e8"/><circle cx="662.1" cy="225.1" r="3.5" fill="#05d9e8"/><circle cx="677.8" cy="245.7" r="3.5" fill="#05d9e8"/><circle cx="740.6" cy="60.0" r="3.5" fill="#05d9e8"/><circle cx="756.3" cy="152.8" r="3.5" fill="#05d9e8"/><circle cx="897.5" cy="214.7" r="3.5" fill="#05d9e8"/><circle cx="960.3" cy="173.5" r="3.5" fill="#05d9e8"/>
+<text x="50" y="282" class="s" text-anchor="middle">09-16</text><text x="206.94915254237287" y="282" class="s" text-anchor="middle">09-26</text><text x="363.89830508474574" y="282" class="s" text-anchor="middle">10-06</text><text x="520.8474576271186" y="282" class="s" text-anchor="middle">10-16</text><text x="677.7966101694915" y="282" class="s" text-anchor="middle">10-26</text><text x="834.7457627118644" y="282" class="s" text-anchor="middle">11-05</text><text x="976" y="282" class="s" text-anchor="middle">11-14</text>
+</svg>

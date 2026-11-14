@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="467" height="205" viewBox="0 0 467 205">
+<style>
+  .t{font:700 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:#ff2a6d}
+  .l{font:600 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:#d1f7ff}
+  .v{font:700 15px 'Fira Code', Consolas, 'Courier New', monospace;fill:#05d9e8}
+  .s{font:400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:#8b8ba7}
+  .f{opacity:0;animation:in .5s ease-out forwards}
+  @keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
+  @media (prefers-reduced-motion:reduce){.f{animation:none;opacity:1}}
+</style>
+<defs><linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#ff2a6d"/><stop offset="1" stop-color="#05d9e8"/></linearGradient></defs>
+<rect x="1" y="1" width="465" height="203" rx="8" fill="#0d0221" stroke="url(#edge)" stroke-width="1.5"/>
+<text x="24" y="36" class="t">Jishnu&#39;s GitHub Stats</text>
+<g class="f" style="animation-delay:150ms">
+  <text x="26" y="66" style="font:700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:#f9f002">★</text>
+  <text x="48" y="66" class="l">Total stars</text>
+  <text x="440" y="66" class="v" text-anchor="end">2</text></g>
+<g class="f" style="animation-delay:270ms">
+  <text x="26" y="89" style="font:700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:#f9f002">⟳</text>
+  <text x="48" y="89" class="l">Commits (last year)</text>
+  <text x="440" y="89" class="v" text-anchor="end">72</text></g>
+<g class="f" style="animation-delay:390ms">
+  <text x="26" y="112" style="font:700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:#f9f002">⇄</text>
+  <text x="48" y="112" class="l">Pull requests</text>
+  <text x="440" y="112" class="v" text-anchor="end">6</text></g>
+<g class="f" style="animation-delay:510ms">
+  <text x="26" y="135" style="font:700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:#f9f002">!</text>
+  <text x="48" y="135" class="l">Issues</text>
+  <text x="440" y="135" class="v" text-anchor="end">1</text></g>
+<g class="f" style="animation-delay:630ms">
+  <text x="26" y="158" style="font:700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:#f9f002">▣</text>
+  <text x="48" y="158" class="l">Contributions (last year)</text>
+  <text x="440" y="158" class="v" text-anchor="end">86</text></g>
+<g class="f" style="animation-delay:750ms">
+  <text x="26" y="181" style="font:700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:#f9f002">◉</text>
+  <text x="48" y="181" class="l">Followers</text>
+  <text x="440" y="181" class="v" text-anchor="end">10</text></g>
+</svg>
